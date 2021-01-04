@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17414" started-at="2020-12-14T11:41:04Z" finished-at="2020-12-14T11:41:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17414" started-at="2020-12-14T11:41:04Z" finished-at="2020-12-14T11:41:22Z">
+      <class name="org.execution.TestRestAssured">
+        <test-method status="PASS" signature="get()[pri:0, instance:org.execution.TestRestAssured@27c86f2d]" name="get" duration-ms="15142" started-at="2020-12-14T11:41:05Z" finished-at="2020-12-14T11:41:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get -->
+        <test-method status="PASS" signature="testing(java.lang.String)[pri:0, instance:org.execution.TestRestAssured@27c86f2d]" name="testing" duration-ms="1517" started-at="2020-12-14T11:41:20Z" data-provider="sample" finished-at="2020-12-14T11:41:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[7879,doberman,]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing -->
+      </class> <!-- org.execution.TestRestAssured -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,18 @@
+{
+  "id": 9222968140496848000,
+  "category": {
+    "id": 0 ,
+    "name": "string"
+  },
+  "name": "doggie",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": "7879",
+      "name": "doberman"
+    }
+  ],
+  "status": "available"
+}
